@@ -1,1 +1,60 @@
-# Smart Clipboard
+# 📋 Smart Clipboard
+
+A powerful clipboard manager for Windows that automatically saves everything you copy with optional names and tags.
+
+![Smart Clipboard Screenshot](screenshot.png)
+
+## ✨ Features
+
+- **🔄 Real-time Monitoring** - Automatically detects text you copy (Ctrl+C)
+- **🏷️ Smart Organization** - Add names and tags to saved items
+- **🔍 Powerful Search** - Find anything in your clipboard history
+- **💾 Export/Import** - Backup and restore your data
+- **⚡ Quick Export** - One-click save to Desktop
+- **🖥️ System Tray** - Runs quietly in the background
+- **🚀 Two Versions** - Installer and Portable available
+
+## 📦 Downloads
+
+| Version | File | Description |
+|---------|------|-------------|
+| 🏠 Installer | [SmartClipboard-Setup.exe](link) | Regular installation (adds to Start Menu) |
+| 💾 Portable | [SmartClipboard-Portable.zip](link) | No installation, run from anywhere |
+
+## 🚀 Quick Start
+
+### Installer Version
+1. Download `SmartClipboard-Setup.exe`
+2. Run the installer
+3. Launch from Start Menu or Desktop shortcut
+4. Start copying text - it will automatically save!
+
+### Portable Version
+1. Download `SmartClipboard-Portable.zip`
+2. Extract to any folder (USB drive, Desktop, etc.)
+3. Run `SmartClipboard-Portable.exe`
+4. All data will be saved in the same folder
+
+## 📖 How to Use
+
+1. **Copy any text** (Ctrl+C anywhere)
+2. **Name it** (optional) in the popup dialog
+3. **Add tags** (comma-separated, optional)
+4. **Access history** from system tray icon
+5. **Search** through your saved items
+
+## 🖼️ Screenshots
+
+| Main Dialog | History Window |
+|-------------|----------------|
+| ![Dialog](screenshots/dialog.png) | ![History](screenshots/history.png) |
+
+## 🔧 System Requirements
+
+- Windows 7, 8, 10, or 11
+- 50MB free disk space
+- No internet connection required
+
+## 📁 Data Storage
+
+### Installer Version
