@@ -78,7 +78,7 @@ pip install -r requirements.txt
 # Build both versions
 build_portable.bat
 build_installer.bat
-
+```
 ##🤝 Contributing
 Contributions are welcome! Please feel free to submit a Pull Request.
 
