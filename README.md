@@ -18,8 +18,8 @@ A powerful clipboard manager for Windows that automatically saves everything you
 
 | Version | File | Description |
 |---------|------|-------------|
-| 🏠 Installer | [SmartClipboard-Setup.exe]([link](https://github.com/MasterMut3/smartclipboard/tree/platform/windows/installer)) | Regular installation (adds to Start Menu) |
-| 💾 Portable | [SmartClipboard-Portable.zip]([link](https://github.com/MasterMut3/smartclipboard/blob/platform/windows/SmartClipboard-Portable-v1.0.zip)) | No installation, run from anywhere |
+| 🏠 Installer | [SmartClipboard-Setup.exe](https://github.com/MasterMut3/smartclipboard/tree/platform/windows/installer) | Regular installation (adds to Start Menu) |
+| 💾 Portable | [SmartClipboard-Portable.zip](https://github.com/MasterMut3/smartclipboard/blob/platform/windows/SmartClipboard-Portable-v1.0.zip) | No installation, run from anywhere |
 
 ## 🚀 Quick Start
 
