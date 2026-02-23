@@ -12,3 +12,4 @@ flake8>=4.0.0
 
 # For packaging
 pyinstaller>=5.0.0
+win10toast>=0.9
