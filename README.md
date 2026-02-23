@@ -92,20 +92,20 @@ Push to the branch (git push origin feature/amazing-feature)
 
 Open a Pull Request
 
-##📝 License
+## 📝 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-##🙏 Acknowledgments
+## 🙏 Acknowledgments
 Thanks to all contributors
 
 Built with Python and love ❤️
-
-##📬 Contact
+ 
+## 📬 Contact
 GitHub: @MasterMut3
 
 Email: mastermute.html@gmail.com
 
 Issues: GitHub Issues
 
-##⭐ Support
+## ⭐ Support
 If you find this useful, please give it a star on GitHub!
