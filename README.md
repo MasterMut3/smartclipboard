@@ -79,7 +79,7 @@ pip install -r requirements.txt
 build_portable.bat
 build_installer.bat
 ```
-##🤝 Contributing
+## 🤝 Contributing
 Contributions are welcome! Please feel free to submit a Pull Request.
 
 Fork the repository
