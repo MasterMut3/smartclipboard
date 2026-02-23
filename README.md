@@ -11,7 +11,6 @@ A powerful clipboard manager for Windows that automatically saves everything you
 - **🔍 Powerful Search** - Find anything in your clipboard history
 - **💾 Export/Import** - Backup and restore your data
 - **⚡ Quick Export** - One-click save to Desktop
-- **🖥️ System Tray** - Runs quietly in the background
 - **🚀 Two Versions** - Installer and Portable available
 
 ## 📦 Downloads
