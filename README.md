@@ -2,7 +2,7 @@
 
 A powerful clipboard manager for Windows that automatically saves everything you copy with optional names and tags.
 
-![Smart Clipboard Screenshot](screenshot.png)
+![Smart Clipboard Screenshot](scportable.png)
 
 ## ✨ Features
 
@@ -47,7 +47,7 @@ A powerful clipboard manager for Windows that automatically saves everything you
 
 | Main Dialog | History Window |
 |-------------|----------------|
-| ![Dialog](screenshots/dialog.png) | ![History](screenshots/history.png) |
+| ![Dialog](main1.png) | ![History](history.png) |
 
 ## 🔧 System Requirements
 
