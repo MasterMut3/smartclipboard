@@ -1,0 +1,13 @@
+Smart Clipboard Portable v1.0 
+========================= 
+ 
+This is the PORTABLE version. It stores all data in this folder. 
+ 
+TO USE: 
+1. Run SmartClipboard-Portable.exe 
+2. Copy any text to start saving 
+3. Data will be saved in this folder 
+ 
+Files created: 
+- clipboard_data.json (your saved items) 
+- logs\app.log (application log) 

@@ -1,0 +1,6 @@
+Smart Clipboard v1.0.0 
+Release Date: Tue 02/24/2026 
+ 
+Files: 
+- installer\SmartClipboard-Setup.exe (Installer) 
+- portable\SmartClipboard-Portable.zip (Portable ZIP) 
