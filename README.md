@@ -58,3 +58,55 @@ A powerful clipboard manager for Windows that automatically saves everything you
 ## 📁 Data Storage
 
 ### Installer Version
+%USERPROFILE%.smart_clipboard\data.json
+### Portable Version
+[App Folder]\clipboard_data.json
+
+## 🛠️ Building from Source
+
+```bash
+# Clone the repository
+git clone https://github.com/yourusername/smart-clipboard.git
+cd smart-clipboard
+
+# Create virtual environment
+python -m venv .venv
+.venv\Scripts\activate
+
+# Install dependencies
+pip install -r requirements.txt
+
+# Build both versions
+build_portable.bat
+build_installer.bat
+
+🤝 Contributing
+Contributions are welcome! Please feel free to submit a Pull Request.
+
+Fork the repository
+
+Create your feature branch (git checkout -b feature/amazing-feature)
+
+Commit your changes (git commit -m 'Add amazing feature')
+
+Push to the branch (git push origin feature/amazing-feature)
+
+Open a Pull Request
+
+📝 License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+🙏 Acknowledgments
+Thanks to all contributors
+
+Built with Python and love ❤️
+
+📬 Contact
+GitHub: @MasterMut3
+
+Email: mastermute.html@gmail.com
+
+Issues: GitHub Issues
+
+⭐ Support
+If you find this useful, please give it a star on GitHub!
